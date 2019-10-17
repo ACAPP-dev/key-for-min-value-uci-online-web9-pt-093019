@@ -27,5 +27,5 @@ def key_for_min_value(name_hash)
 
 end
 
-hash = {chair: 100, table: 900, desk: 200}
+hash = {chair: 0, table: 900, desk: 200}
 p key_for_min_value(hash)
